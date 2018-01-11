@@ -1,0 +1,2 @@
+# eslintrc
+my eslint configuration
