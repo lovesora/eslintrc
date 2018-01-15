@@ -2,11 +2,12 @@
 eslint configuration
 
 # Usage
-1. install eslintrc
+## Step 1. Install eslintrc
 ```bash
 npm i -D eslintrc
 ```
-2. add `.eslintrc` in your project root
+
+## Step 2. Add `.eslintrc` in your project root
 ```js
 {
   "extends": "./node_modules/eslintrc/.eslintrc-default",
