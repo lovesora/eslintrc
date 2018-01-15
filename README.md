@@ -6,7 +6,6 @@ eslint configuration
 ```bash
 npm i -D eslintrc
 ```
-
 2. add `.eslintrc` in your project root
 ```js
 {
