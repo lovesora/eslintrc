@@ -10,7 +10,7 @@ npm i -D eslintrc
 ## Step 2. Add `.eslintrc` in your project root
 ```js
 {
-  "extends": "./node_modules/eslintrc/.eslintrc-default",
+  "extends": "./node_modules/eslintrc/.eslintrc-default"
 }
 ```
 
