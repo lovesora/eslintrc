@@ -1,6 +1,6 @@
 {
   "name": "eslintrc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "eslint configuration",
   "main": ".eslintrc-default",
   "scripts": {
