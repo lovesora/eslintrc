@@ -38,8 +38,6 @@
         // 文件末尾强制换行; 为了兼容解析js文件的地方
         "eol-last": 2,
         // 规则配置
-        "no-console": 1,
-        "no-debugger": 1,
         "no-extra-semi": 1,
         "no-constant-condition": 2,
         "no-extra-boolean-cast": 2,

@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/lovesora/eslintrc/issues"
   },
-  "homepage": "https://github.com/lovesora/eslintrc#readme"
+  "homepage": "https://github.com/lovesora/eslintrc#readme",
+  "dependencies": {
+    "eslint-config-react-app": "^2.1.0",
+    "eslint-plugin-requirejs": "^3.1.1"
+  }
 }
