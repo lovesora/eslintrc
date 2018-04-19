@@ -4,7 +4,7 @@ eslint configuration
 # Usage
 ## Step 1. Install eslintrc
 ```bash
-npm i -D eslintrc
+yarn add --dev eslint babel-eslint eslintrc
 ```
 
 ## Step 2. Add `.eslintrc` in your project root
@@ -12,5 +12,10 @@ npm i -D eslintrc
 {
   "extends": "./node_modules/eslintrc/.eslintrc-default"
 }
+```
+
+or
+```bash
+cp ./node_modules/eslintrc/.eslintrc .eslintrc
 ```
 
