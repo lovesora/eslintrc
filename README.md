@@ -1,3 +1,6 @@
+# Deprecated
+see [lintrc](https://github.com/lovesora/lintrc)
+
 # eslintrc
 eslint configuration
 
