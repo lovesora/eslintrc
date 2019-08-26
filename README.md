@@ -1,4 +1,3 @@
-# Deprecated
 :no_entry: [DEPRECATED] Active at https://github.com/lovesora/lintrc
 
 # eslintrc
