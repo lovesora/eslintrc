@@ -1,5 +1,5 @@
 # Deprecated
-see [lintrc](https://github.com/lovesora/lintrc)
+:no_entry: [DEPRECATED] Active at https://github.com/lovesora/lintrc
 
 # eslintrc
 eslint configuration
